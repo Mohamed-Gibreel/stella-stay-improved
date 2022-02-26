@@ -71,11 +71,21 @@ function DownloadSection() {
             </div>
           </div>
           <div className="download-btns flex pb-10">
-            <img src={PlayStore} alt="android" className="max-w-100" />
-            <img src={AppStore} alt="iphone" className="p-2 max-w-100" />
+            <img
+              src={PlayStore}
+              alt="android"
+              className="max-w-[35%]"
+              width="50%"
+            />
+            <img
+              src={AppStore}
+              alt="iphone"
+              className="p-2 max-w-[35%]"
+              width="50%"
+            />
           </div>
         </div>
-        <div className="download-picture lg:flex lg:flex-[50%] lg:justify-end invisible lg:visible relative">
+        <div className="download-picture lg:flex lg:flex-[50%] lg:justify-end invisible hidden lg:block lg:visible relative">
           <IPhone className="iPhone absolute h-[150%] top-[-60px]"></IPhone>
         </div>
       </div>
