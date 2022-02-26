@@ -1,0 +1,17 @@
+.rdrDefinedRangesWrapper {
+  display: none;
+}
+
+/* .rdrDateRangePickerWrapper {
+  position: absolute;
+} */
+
+.rdrMonthName {
+  text-align: center;
+}
+
+@media only screen and (max-width: 750px) {
+  .rdrMonths {
+    flex-direction: column;
+  }
+}
