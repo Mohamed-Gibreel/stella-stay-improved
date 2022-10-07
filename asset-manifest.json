@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/stellastays/static/css/main.e7101e80.css",
+    "main.js": "/stellastays/static/js/main.ef5ddb53.js",
+    "static/js/787.879d54aa.chunk.js": "/stellastays/static/js/787.879d54aa.chunk.js",
+    "static/media/living_room.png": "/stellastays/static/media/living_room.cc17ec1084f7d4fe7740.png",
+    "static/media/iphone.svg": "/stellastays/static/media/iphone.faeac6db72d3982761a8bb3aadd32e21.svg",
+    "static/media/image_3.png": "/stellastays/static/media/image_3.b8b64dc114310c0017f8.png",
+    "static/media/image_1.png": "/stellastays/static/media/image_1.c5270af4ca192b36ba5e.png",
+    "static/media/image_4.png": "/stellastays/static/media/image_4.67c5d8f8df15c1c0b175.png",
+    "static/media/image_2.png": "/stellastays/static/media/image_2.5c5c7d4ba90e4336e377.png",
+    "static/media/logo.png": "/stellastays/static/media/logo.3e5ab02d2647924c7aa8.png",
+    "static/media/play_store.svg": "/stellastays/static/media/play_store.9125a1aa017c5deaaac35099d2c2753c.svg",
+    "static/media/app_store.svg": "/stellastays/static/media/app_store.c30a0d9a95f3c48ffbac8fa0cae9d036.svg",
+    "static/media/step_4.svg": "/stellastays/static/media/step_4.8bce7ba7e354d6095f664d4b2095d978.svg",
+    "static/media/step_3.svg": "/stellastays/static/media/step_3.541c4aa85300ac60e2222ef5d83e7446.svg",
+    "static/media/step_2.svg": "/stellastays/static/media/step_2.176158c80e08b0e48a1aa868245f30ba.svg",
+    "static/media/step_1.svg": "/stellastays/static/media/step_1.19626feaaabf4272ae325c0eda7a64c3.svg",
+    "static/media/star.svg": "/stellastays/static/media/star.8df11e5cd9fdeb142aefc3b5ae32982b.svg",
+    "static/media/heart.svg": "/stellastays/static/media/heart.6c9761fec61c4eb16dbdc06f92402aeb.svg",
+    "static/media/front-btn.svg": "/stellastays/static/media/front-btn.fc8b239f1d67911da647a72ca5c8e9f2.svg",
+    "static/media/back-btn.svg": "/stellastays/static/media/back-btn.eab2359fa16818affa94d4843560e059.svg",
+    "static/media/search.svg": "/stellastays/static/media/search.59b7244c8a32df4c53192b86fe3339d4.svg",
+    "index.html": "/stellastays/index.html",
+    "main.e7101e80.css.map": "/stellastays/static/css/main.e7101e80.css.map",
+    "main.ef5ddb53.js.map": "/stellastays/static/js/main.ef5ddb53.js.map",
+    "787.879d54aa.chunk.js.map": "/stellastays/static/js/787.879d54aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7101e80.css",
+    "static/js/main.ef5ddb53.js"
+  ]
+}
